@@ -29,7 +29,7 @@ function Events() {
         </center>
       <motion.div
     
-      className="md:grid grid grid-cols-2 gap-6 md:gap-2 ml-8 mt-8 md:grid-cols-4 mb-8">
+      className="md:grid grid grid-x-4 grid-cols-2 gap-6 md:gap-2 ml-8 mt-8 md:grid-cols-4 mb-8">
         {
           data.map(data =>(
             <motion.div 
