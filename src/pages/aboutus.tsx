@@ -84,8 +84,8 @@ function AboutUs() {
                 Talemwa charity organisation is a christian based charity organistion and our main objectrive is to change the life of need.
                 It was founded on 31/12/2024 from a vision from God (TALEMWA CHARITY ORGANIZATION) early before I had seen the increasing number of children suffering on the 
                 streets of kampala and that really was the turning point of my life I decided to take a step and pray about it then God showed
-                me (TALEMWA CHARITY ORGANIZATION) I told friends and family that helped financially, emotionally, physically on the stupendous path had taken
-              - <span className="text-md font-bold">Talemwa Matthew[Founder]</span>
+                me (TALEMWA CHARITY ORGANIZATION) I told friends and family that helped financially, emotionally, physically on the stupendous path i had taken
+              - <span className="text-md font-bold">Talemwa Matthew</span>
               </p>
             </motion.div>
 
